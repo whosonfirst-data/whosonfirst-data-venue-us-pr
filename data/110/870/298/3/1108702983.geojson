@@ -1,0 +1,52 @@
+{
+  "id": 1108702983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-67.1517568,18.2066344,-67.1517568,18.2066344",
+    "geom:latitude":18.206634,
+    "geom:longitude":-67.151757,
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "sg:address":"257 Calle Aduana #145",
+    "sg:city":"Mayaguez",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"00682",
+    "sg:website":"http://140ware.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_122ZnT9vLuHcj5X2PwdZ6F_18.206634_-67.151757@1308163241"
+    },
+    "wof:country":"US",
+    "wof:created":1474570896,
+    "wof:geomhash":"b7a6e531effaa0bf6aa94ad8bf060924",
+    "wof:hierarchy":[],
+    "wof:id":1108702983,
+    "wof:lastmodified":1474570896,
+    "wof:name":"140Ware",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -67.1517568,
+    18.2066344,
+    -67.1517568,
+    18.2066344
+],
+  "geometry": {"coordinates":[-67.1517568,18.2066344],"type":"Point"}
+}

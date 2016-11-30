@@ -1,0 +1,84 @@
+{
+  "id": 1108702985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-66.089302,18.4161161,-66.089302,18.4161161",
+    "geom:latitude":18.416116,
+    "geom:longitude":-66.089302,
+    "iso:country":"PR",
+    "mz:hierarchy_label":1,
+    "sg:address":"274 Ave. De Diego",
+    "sg:city":"San Juan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"00920",
+    "sg:tags":[
+        "online-shopping",
+        "puerto-rico-mexico-caribbean-latin-american",
+        "buy-from-local-store-online",
+        "ecommerce",
+        "marketplace"
+    ],
+    "sg:website":"http://www.weepii.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        "85633729",
+        85866297,
+        "102191575",
+        "85633793",
+        101919427,
+        102080441,
+        85687331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GFDWtqJRS6q2rumi1BsKx_18.416116_-66.089302@1308163241"
+    },
+    "wof:country":"US",
+    "wof:created":1474570896,
+    "wof:geomhash":"566b04bf58784ec0d91491ac31be2159",
+    "wof:hierarchy":[
+        {
+            "continent_id":"102191575",
+            "country_id":"85633793",
+            "county_id":102080441,
+            "dependency_id":"85633729",
+            "locality_id":101919427,
+            "neighbourhood_id":85866297,
+            "region_id":85687331,
+            "venue_id":1108702985
+        }
+    ],
+    "wof:id":1108702985,
+    "wof:lastmodified":1474570896,
+    "wof:name":"Weepii.com",
+    "wof:parent_id":85866297,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pr",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "online-shopping",
+        "puerto-rico-mexico-caribbean-latin-american",
+        "buy-from-local-store-online",
+        "ecommerce",
+        "marketplace"
+    ]
+},
+  "bbox": [
+    -66.089302,
+    18.4161161,
+    -66.089302,
+    18.4161161
+],
+  "geometry": {"coordinates":[-66.089302,18.4161161],"type":"Point"}
+}
